@@ -9,15 +9,16 @@ i built this task by using React.js, Node.js, Express, and json Data to help the
 - React.js
 - Node.js
 - Express.js
+- json Data
 
 # How to run
 
-open a terminal inside the directory and go to the server directory using `cd server` and run the following commands:
+open a terminal inside the directory and go to the server directory using 'cd server' and run the following commands:
 
 1. npm install
 2. npm start
 
-after you run the server, now you can open a new terminal and go to the client directory using cd client, then run:
+after you run the server, now you can open a new terminal and go to the client directory using 'cd client' then run:
 
 1. npm install
 2. npm start
@@ -30,4 +31,4 @@ you will get a random of 10 questions, each question gives you a word and asks w
 
 When you finish the 10 questions, Click on the rank Button to see your rank .
 
-###### best wishes
+###### best wishes.
