@@ -2,14 +2,13 @@
 
 ## About the task
 
-i built this task by using React.js, Node.js, Express, and json Data to help the students practice categorizing a set of words according to their part of speech
+i built this task by using React.js, Node.js, Express to help the students practice categorizing a set of words according to their part of speech
 
 # Technologies used
 
 - React.js
 - Node.js
 - Express.js
-- json Data
 
 # How to run
 
